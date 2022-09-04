@@ -10,7 +10,7 @@ def length(list):
 
 no = int(input("Enter a number: "))
 
-graph = []
+graph = [no]
 
 while no != 1:
     if no%2 == 0:
