@@ -18,5 +18,4 @@ Here is an example:<br>
 
 ![A plot for 10](https://cdn.discordapp.com/attachments/884050669546373143/1016001996345573488/Figure_10.png)
 
-<hr>
 Here is a [video](https://www.youtube.com/watch?v=094y1Z2wpJg) about it :), or this [article](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/)
