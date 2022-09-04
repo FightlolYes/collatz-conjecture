@@ -16,6 +16,8 @@ def length(list):
 
 no = int(input("Enter a number: "))
 
+save_no = no
+
 graph = [no]
 
 while no != 1:
@@ -35,5 +37,5 @@ x = range(1, length(graph)+ 1)
 y = graph
 
 plt.plot(x, y)
-plt.savefig(cwd+f"/graphs/plot_{str(int(no))}.png")
+plt.savefig(cwd+f"/graphs/plot_{str(int(save_no))}.png")
 plt.show()
