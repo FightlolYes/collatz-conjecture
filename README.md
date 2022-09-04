@@ -1,4 +1,4 @@
-Just trying to do some research regarding the Collatz Conjecture problem and MAYBE using a Machine Learning algorithm to predict accurate patterns(if any) (I have no hope to make any groundbreaking discovery)
+Just trying to do some research regarding the Collatz Conjecture problem and MAYBE using a Machine Learning algorithm to predict patterns(if any) (I have no hope to make any groundbreaking discovery)
 
 Still in Development stage :)
 
