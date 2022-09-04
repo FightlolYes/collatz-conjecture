@@ -2,6 +2,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas 
 
+from pathlib import Path
+
+cwd = Path(__file__).parents[0]
+cwd = str(cwd)
+print(f"{cwd}\n---")
+
 def length(list):
     count = 0
     for element in list:
@@ -29,4 +35,5 @@ x = range(1, length(graph)+ 1)
 y = graph
 
 plt.plot(x, y)
+plt.savefig(cwd+f"/graphs/plot_{str(int(no))}.png")
 plt.show()
