@@ -16,6 +16,6 @@ I can plot graphs for the values using MatPlotLib
 
 Here is an example:<br>
 
-![A plot for 10](https://cdn.discordapp.com/attachments/884050669546373143/1016001996345573488/Figure_10.png)
+![A plot for 11](https://cdn.discordapp.com/attachments/998660570305794048/1016249771436027985/plot_11.png)
 
 Here is a [video](https://www.youtube.com/watch?v=094y1Z2wpJg) about it :), or this [article](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/)
