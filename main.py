@@ -36,6 +36,7 @@ print(graph)
 x = range(1, length(graph)+ 1)
 y = graph
 
+plt.title(f"A Collatz Conjecture graph for {save_no}")
 plt.xlabel("No of steps")
 plt.ylabel("Returned value")
 
