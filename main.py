@@ -36,6 +36,9 @@ print(graph)
 x = range(1, length(graph)+ 1)
 y = graph
 
+plt.xlabel("No of steps")
+plt.ylabel("Returned value")
+
 plt.plot(x, y)
 plt.savefig(cwd+f"/graphs/plot_{str(int(save_no))}.png")
 plt.show()
