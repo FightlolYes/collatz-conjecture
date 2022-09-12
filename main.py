@@ -36,19 +36,11 @@ print(graph)
 x = range(1, length(graph)+ 1)
 y = graph
 
-ask = input("Save the graph? Y/N")
-
 plt.title(f"A Collatz Conjecture graph for {save_no}")
 plt.xlabel("No of steps")
 plt.ylabel("Returned value")
 
 plt.plot(x, y)
-
-if ask == "Y" or "y":
-    plt.savefig(cwd+f"/graphs/plot_{str(int(save_no))}.png")
-
-else:
-    pass
 
 plt.show()
 
